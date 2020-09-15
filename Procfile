@@ -1,1 +1,1 @@
-service: run EasyRP
+service: start EasyRP.exe
